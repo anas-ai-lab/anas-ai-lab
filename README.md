@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Anas%20Ai-Lab&fontSize=48&fontColor=E8E3FF&fontAlignY=36&desc=AI%20Solution%20Architect%20%26%20Governance%20Lead&descAlignY=56&descSize=19&descColor=B8A6FF&animation=fadeIn" alt="Animated header banner introducing Anas Ai-Lab, AI Solution Architect and Governance Lead" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Anas%20Ai-Lab&fontSize=48&fontColor=E8E3FF&fontAlignY=36&desc=AI%20Solution%20Architect%20%26%20Governance%20Lead&descAlignY=56&descSize=19&descColor=B8A6FF&animation=fadeIn" alt="Animated header banner introducing Anas Ai-Lab, AI Solution Architect and Governance Lead" width="100%"/>
 
 <br/>
 
@@ -60,7 +60,7 @@ Delivery is grounded in hexagonal architecture and strict typing on the backend 
 
 <img src="https://img.shields.io/static/v1?label=&message=Java&color=5382A1&style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/static/v1?label=&message=SQL&color=4B3F72&style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/static/v1?label=&message=SQL&color=4B3F72&style=for-the-badge" alt="SQL"/>
 
 **Frontend**
 
@@ -74,7 +74,7 @@ Delivery is grounded in hexagonal architecture and strict typing on the backend 
 <img src="https://img.shields.io/static/v1?label=&message=FastAPI&color=1a1533&style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
 <img src="https://img.shields.io/static/v1?label=&message=Pydantic%20V2&color=E92063&style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic V2"/>
 <img src="https://img.shields.io/static/v1?label=&message=Python%203.12&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12"/>
-<img src="https://img.shields.io/static/v1?label=&message=Hexagonal%20Architecture&color=4B0082&style=for-the-badge&logo=hexo&logoColor=white" alt="Hexagonal Architecture"/>
+<img src="https://img.shields.io/static/v1?label=&message=Hexagonal%20Architecture&color=4B0082&style=for-the-badge" alt="Hexagonal Architecture"/>
 <img src="https://img.shields.io/static/v1?label=&message=SQLite&color=003B57&style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 
 **Cloud & DevOps**
@@ -87,16 +87,16 @@ Delivery is grounded in hexagonal architecture and strict typing on the backend 
 
 **AI / ML**
 
-<img src="https://img.shields.io/static/v1?label=&message=RAG%20(ChromaDB%2C%20sentence-transformers)&color=6D28D9&style=for-the-badge&logo=langchain&logoColor=white" alt="Retrieval-augmented generation with ChromaDB and sentence-transformers"/>
+<img src="https://img.shields.io/static/v1?label=&message=RAG%20(ChromaDB%2C%20sentence-transformers)&color=6D28D9&style=for-the-badge" alt="Retrieval-augmented generation with ChromaDB and sentence-transformers"/>
 <img src="https://img.shields.io/static/v1?label=&message=Azure%20OpenAI&color=0078D4&style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI"/>
 <img src="https://img.shields.io/static/v1?label=&message=Prompt%20Engineering&color=4B0082&style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/static/v1?label=&message=LLM%20Evaluation%20%26%20Guardrails&color=312E81&style=for-the-badge&logo=checkmarx&logoColor=white" alt="LLM Evaluation and Guardrails"/>
+<img src="https://img.shields.io/static/v1?label=&message=LLM%20Evaluation%20%26%20Guardrails&color=312E81&style=for-the-badge" alt="LLM Evaluation and Guardrails"/>
 <img src="https://img.shields.io/static/v1?label=&message=tiktoken&color=5B21B6&style=for-the-badge&logo=openai&logoColor=white" alt="tiktoken"/>
 
 **Databases**
 
 <img src="https://img.shields.io/static/v1?label=&message=SQLite&color=003B57&style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/static/v1?label=&message=ChromaDB%20(vector%20store)&color=4B3F72&style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB vector store"/>
+<img src="https://img.shields.io/static/v1?label=&message=ChromaDB%20(vector%20store)&color=4B3F72&style=for-the-badge" alt="ChromaDB vector store"/>
 
 **Tools**
 
@@ -151,7 +151,7 @@ AI use-case intake and governance advisory system for evaluating, prioritizing, 
 | Performance | Not benchmarked publicly |
 | Security | Typed request/response contracts via Pydantic V2; no public deployment yet |
 | Impact | Provides a structured intake and evaluation path for AI use-case decisions |
-| Repository | [{{INPUT_NEEDED: project_repository_url}}]({{INPUT_NEEDED: project_repository_url}}) |
+| Repository | [github.com/anas-ai-lab/ai-efficiency-control-tower](https://github.com/anas-ai-lab/ai-efficiency-control-tower) |
 
 </details>
 
@@ -259,6 +259,6 @@ currently:
 
 <br/><br/>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" alt="Decorative footer banner closing the profile" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" alt="Decorative footer banner closing the profile" width="100%"/>
 
 </div>
